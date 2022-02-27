@@ -1,6 +1,16 @@
 Lesson-2:
-1. Encapsulating, it describe what is to be this
-user(what i created here)  will live inside this 
-object. 
-2. Inside of a object "this" refers to that object, 
-inside which "this" is written.
+1. Encapsulating, it describe what is to be this user(what i created 
+here) will live inside this object. 
+2. Inside of a object "this" refers to that object, inside which 
+"this" is written.
+
+
+Lesson-3:
+Changing Properties.
+
+Lesson-4,5,6:
+Class methods are created with the same syntax as object methods. 
+Use the keyword class to create a class. A JavaScript class is not 
+an object. It is a template for JavaScript objects.
+Giving example like "User", created a class named "User". The class 
+has three initial properties like:"email" , "name" and "status".
