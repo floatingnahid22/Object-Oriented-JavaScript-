@@ -22,7 +22,14 @@ The "new" keywords-
 3. calls the constructor method.
 
 Lesson-6:
-Class ,methods.
+Class methods.
 
 Lesson-7:
 Method Chaining.
+
+Lesson-8:
+Class inheritance enables you to define a class that takes all the 
+functionality from a parent class and allows you to add more.
+Filter function used.
+
+Lesson-9:
