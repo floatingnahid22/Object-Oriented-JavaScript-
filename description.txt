@@ -1,0 +1,6 @@
+Lesson-2:
+1. Encapsulating, it describe what is to be this
+user(what i created here)  will live inside this 
+object. 
+2. Inside of a object "this" refers to that object, 
+inside which "this" is written.
