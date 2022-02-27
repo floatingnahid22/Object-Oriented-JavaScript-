@@ -20,3 +20,8 @@ The "new" keywords-
 1. ceates a new empty object ()
 2. sets the value of "this" to be the new empty object
 3. calls the constructor method.
+
+Lesson-6:
+Class ,methods.
+
+Lesson-7:
