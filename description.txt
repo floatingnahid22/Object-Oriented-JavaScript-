@@ -8,9 +8,15 @@ here) will live inside this object.
 Lesson-3:
 Changing Properties.
 
-Lesson-4,5,6:
+Lesson-4:
 Class methods are created with the same syntax as object methods. 
 Use the keyword class to create a class. A JavaScript class is not 
 an object. It is a template for JavaScript objects.
 Giving example like "User", created a class named "User". The class 
 has three initial properties like:"email" , "name" and "status".
+
+Lesson-5:
+The "new" keywords-
+1. ceates a new empty object ()
+2. sets the value of "this" to be the new empty object
+3. calls the constructor method.
