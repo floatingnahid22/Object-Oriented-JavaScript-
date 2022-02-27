@@ -25,3 +25,4 @@ Lesson-6:
 Class ,methods.
 
 Lesson-7:
+Method Chaining.
