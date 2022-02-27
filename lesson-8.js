@@ -1,4 +1,4 @@
-class User4 {
+class UserFour {
     constructor(email,name){
         this.email = email;
         this.name = name;
@@ -21,7 +21,7 @@ class User4 {
 
 }
 
-class Admin extends User4 {
+class Admin extends UserFour {
     deleteUser(user){
         users = users.filter(u => {
             return u.email != user.email;
@@ -30,8 +30,8 @@ class Admin extends User4 {
 
 }
 
-var userOne = new User4('nahid@gmail.com','Nahid');
-var userTwo = new User4('hossain@gmail.com','Hossain');
+var userOne = new UserFour('nahid@gmail.com','Nahid');
+var userTwo = new UserFour('hossain@gmail.com','Hossain');
 var admin = new Admin('md@gmail.com','Md');
 
 var users = [userOne,userTwo, admin];

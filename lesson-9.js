@@ -1,4 +1,4 @@
-function User5(email,name) {
+function UserFive(email,name) {
     this.email = email;
     this.name = name;
     this.online = false;
@@ -8,7 +8,7 @@ function User5(email,name) {
 
 }
 
-var userOne = new User5('nahid@gmail.com','Nahid');
-var userTwo = new User5('hossain@gmail.com','Hossain');
+var userOne = new UserFive('nahid@gmail.com','Nahid');
+var userTwo = new UserFive('hossain@gmail.com','Hossain');
 console.log(userOne);
 userTwo.login();

@@ -1,4 +1,4 @@
-class User3 {
+class UserThree {
     constructor(email,name){
         this.email = email;
         this.name = name;
@@ -21,7 +21,7 @@ class User3 {
 
 }
 
-var userOne = new User3('nahid@gmail.com','Nahid');
-var userTwo = new User3('hossain@gmail.com','Hossain');
+var userOne = new UserThree('nahid@gmail.com','Nahid');
+var userTwo = new UserThree('hossain@gmail.com','Hossain');
 
 userOne.login().updateScore().logout();

@@ -1,4 +1,4 @@
-class User2 {
+class UserTwo {
     constructor(email,name){
         this.email = email;
         this.name = name;
@@ -13,8 +13,8 @@ class User2 {
 
 }
 
-var userOne = new User2('nahid@gmail.com','Nahid');
-var userTwo = new User2('hossain@gmail.com','Hossain');
+var userOne = new UserTwo('nahid@gmail.com','Nahid');
+var userTwo = new UserTwo('hossain@gmail.com','Hossain');
 
 userOne.login()
 userTwo.logout()
